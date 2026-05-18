@@ -1,0 +1,7 @@
+Ưu điểm của JSON so với XML trong việc truyền tải dữ liệu qua Web Service:
+- Nhẹ và nhanh hơn: JSON có cú pháp ngắn gọn, ít ký tự thừa (không cần thẻ đóng/mở như XML),
+giúp giảm dung lượng truyền tải và tăng tốc độ xử lý
+- Dễ đọc và dễ phân tích: JSON có cấu trúc gần giống với đối tượng trong các
+ngôn ngữ lập trình (JavaScript, Python…), nên dễ dàng parse và thao tác
+- Tiêu tốn ít tài nguyên hơn: Do đơn giản và gọn nhẹ, JSON thường tiêu tốn ít CPU
+và bộ nhớ hơn khi xử lý so với XML

@@ -1,0 +1,7 @@
+Web Service là một hệ thống phần mềm cho phép các ứng dụng khác nhau
+(có thể viết bằng ngôn ngữ lập trình khác nhau, chạy trên nền tảng khác nhau)
+giao tiếp và trao đổi dữ liệu qua mạng, thường là Internet. Nó sử dụng các chuẩn mở
+như HTTP, XML, JSON để đảm bảo tính tương thích.
+
+Ví dụ thực tế: Dịch vụ thanh toán trực tuyến (PayPal, Momo, ZaloPay)
+cung cấp Web Service để các website thương mại điện tử tích hợp chức năng thanh toán

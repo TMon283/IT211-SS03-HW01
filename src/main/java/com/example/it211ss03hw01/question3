@@ -1,8 +1,0 @@
-Dữ liệu trên ảnh sau khi chuyển từ JSON -> XML:
-<sinhvien>
-    <maso>SV001</id>
-    <hoten>Nguyen Van A</name>
-    <diem>8.5</diem>
-    <diem>7</diem>
-    <diem>9</diem>
-</sinhvien>
